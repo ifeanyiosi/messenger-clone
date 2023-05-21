@@ -11,6 +11,6 @@ export default function Home() {
       </div>
       {/* Auth form */}
       <AuthForm />
-    </div>
+    </div> 
   );
 }
